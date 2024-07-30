@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil! 🥝
+  
+Meu nome é Eloá 🧠
 
-<!--
-**eloazinha112/eloazinha112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na Alura
+
+
+
+
+![](![image](https://github.com/user-attachments/assets/a5ea1026-7be7-4e82-8047-9940d735a257)
+
+
+
